@@ -19,6 +19,7 @@ A portfolio of some AWS Projects I have made in order to facilitate better under
 │   ├── AWS_Best_Practices.pdf
 │   ├── Cloud_Formation_Templates/
 
+
 ## Projects
 
 1. **[AWS EC2 Website Hosting]**

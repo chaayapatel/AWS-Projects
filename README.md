@@ -2,6 +2,7 @@
 A portfolio of some AWS Projects I have made in order to facilitate better understanding of AWS Services!
 
 ***Directory Structure***
+```
 /AWS-Projects
 ├── README.md              # Main portfolio overview file
 ├── /Projects              # All your AWS project folders
@@ -19,7 +20,7 @@ A portfolio of some AWS Projects I have made in order to facilitate better under
 ├── /Docs                  # Documentation folder
 │   ├── AWS_Best_Practices.pdf
 │   ├── Cloud_Formation_Templates/
-
+```
 
 ## Projects
 

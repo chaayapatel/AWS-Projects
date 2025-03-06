@@ -1,6 +1,6 @@
 # Building a Serverless Ride-Sharing Application Using AWS
 
-In this blog post, I will walk you through building a serverless ride-sharing application using AWS services such as AWS Amplify, Amazon Cognito, AWS Lambda, Amazon DynamoDB, AWS Identity and Access Management (IAM), and Amazon API Gateway. This application will simulate a ride-sharing service where users can request a unicorn ride, and the system will authenticate users, store their requests, and process them without needing to set up traditional servers.
+In this blog post, I will walk you through building a serverless ride-sharing application using AWS services such as AWS Amplify, Amazon Cognito, AWS Lambda, Amazon DynamoDB, AWS Identity and Access Management (IAM), and Amazon API Gateway. This application will simulate a ride-sharing service where users can request a unicorn ride, and the system will authenticate users, store their requests, and process them without needing to set up traditional servers. The HTML and frontend code is courtesy of AWS Services and can be found on numerous Git Repos.
 
 ## Materials Required:
 1. **AWS Account**: You need an AWS account to use the services mentioned in this tutorial.

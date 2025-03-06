@@ -6,20 +6,16 @@ A portfolio of some AWS Projects I have made in order to facilitate better under
 /AWS-Projects
 ├── README.md              # Main portfolio overview file
 ├── /Projects              # All your AWS project folders
-│   ├── Project1/          # Example Project folder (e.g., EC2 Website Hosting)
+│   ├── Project1/          
 │   │   ├── README.md      # Description of Project 1
-│   │   ├── /Code          # Code for Project 1
 │   │   ├── /Architecture  # Architecture diagrams for Project 1
-│   ├── Project2/          # Example Project folder (e.g., Lambda and API Gateway)
-│   │   ├── README.md      # Description of Project 2
-│   │   ├── /Code          # Code for Project 2
-│   │   ├── /Architecture  # Architecture diagrams for Project 2
-├── /Certifications        # AWS certification details
-│   ├── AWS_Certification_Card_1.png
-│   ├── AWS_Certification_Card_2.png
-├── /Docs                  # Documentation folder
-│   ├── AWS_Best_Practices.pdf
-│   ├── Cloud_Formation_Templates/
+│   ├── Project2/          
+│   │   ├── README.md      
+│   │   ├── /Code          
+│   │   ├── /Architecture  
+├── /Certifications/Badges        
+│   ├── AWSEducate.png
+│   ├── AWSCloudQuest.png
 ```
 
 ## Projects

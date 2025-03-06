@@ -1,5 +1,5 @@
 # AWS-Projects
-A portfolio of some AWS Projects I have made in order to facilitate better understanding of AWS Services!
+A portfolio of some AWS Projects I have made in order to facilitate better understanding of AWS Services! You'll find blogs which run an overview of how I built each project and other additional comments or problems I encountered along the way! ENJOY!
 
 ***Directory Structure***
 ```

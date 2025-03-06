@@ -18,6 +18,8 @@ The application has a few key components:
 
 ## Step-by-Step Guide:
 
+![AWSAmpApp](Assets/AWSAmpApp.png)
+
 ### 1. **Creating and Hosting the Webpage with AWS Amplify**
 The first step in this process is setting up a webpage. We will use AWS Amplify, a great service for front-end developers, to build and host our webpage.
 
